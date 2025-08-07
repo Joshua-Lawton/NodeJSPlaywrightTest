@@ -1,0 +1,3 @@
+Two simple programs to test the use of Node.js, Playwright, and Express.js
+testServer.js just creates a simple Express server that serves 'Hello, World!' on localhost:3000/hello
+playwrightTest.js uses Playwright to scrape a webpage and extract a few elements. It is mainly set up to scrape from https://westernsydney.edu.au.
